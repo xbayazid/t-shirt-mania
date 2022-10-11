@@ -1,0 +1,18 @@
+.nav-link{
+    background-color: rgb(76, 76, 177);
+    padding: 20px;
+}
+
+.nav-link a{
+    color: white;
+    text-decoration: none;
+    margin: 80px;
+    font-weight: 500;
+}
+
+.cart-container{
+    background-color: rgb(170, 168, 168);
+    height: 400px;
+    margin-left: 30px;
+    border-radius: 10px;
+}

@@ -1,0 +1,9 @@
+.remove-btn{
+    margin-left: 10px;
+    cursor: pointer;
+    border: 0px;
+    padding: 5px 9px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
